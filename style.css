@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    padding: 25px;
+}
+section{
+    text-align: center;
+    display: flex;
+    padding: 100px;
+}
+h3{
+    font-size: 30px;
+    color: cadetblue;
+    padding: 10px;
+}
+h4.giveaway{
+    color:dimgray;
+    text-transform: capitalize;
+}
+p{
+    padding: 25px;
+}
+.deadline{
+    display: flex;
+    gap: 70px;
+    margin-left: 10em;
+}
+.deadline-format{
+    background-color: cadetblue;
+    color: #fff;
+    padding: 10px;
+}
+span{
+    color: wheat;
+}
+.expired{
+    color: rosybrown;
+    font-size: 20px;
+}
